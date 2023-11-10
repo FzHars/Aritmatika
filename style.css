@@ -1,0 +1,33 @@
+form{
+
+    overflow: hidden;
+
+    align-content: center;
+
+    background:linear-gradient(gray,steelblue);
+ 
+    color: white;
+ 
+    padding: 15%;
+ 
+    margin:auto;
+    width: 10;
+    background-attachment: fixed;
+ 
+   }
+
+   button {
+    float: right;
+    width: calc(100% - 200px);
+}
+
+.footer{
+    width: 98%;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+    background: #333;
+    color: #fff;
+    position: absolute;
+    bottom: 0px;
+}
